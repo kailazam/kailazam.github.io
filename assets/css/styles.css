@@ -557,9 +557,9 @@ img{
 }
 
 /* For tall screens on mobiles y desktop*/
-@media screen and (min-height: 721px) {
+@media screen and (min-height: 500px) {
     .home__container {
-        height: 400px;
+        height:500px;
     }
 }
 
